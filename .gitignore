@@ -1,0 +1,3 @@
+# Project exclude paths
+/greetings-app/target/
+/greetings-service/target/
